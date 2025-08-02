@@ -14,7 +14,8 @@ body{
 }
 .form-register{
 
-    width: 435px;
+    max-width: 500px;
+    min-width: 305px;
     background: #24303c;
     padding: 30px;
     margin: 0 auto;

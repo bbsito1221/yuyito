@@ -65,8 +65,10 @@ ul, ol{
 
 .link {
     color: white;
-    font-size: 3rem;
+    font-size: 2.5rem;
     text-transform: uppercase;
+
+    
 }
 @media (min-width:768px){
     .labe_hamburguesa{
@@ -85,7 +87,6 @@ ul, ol{
         transition: .3s;
         padding: .5rem;
         border-radius: 15px;
-
     }
     .link:hover{
         background-color: blueviolet;
